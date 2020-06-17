@@ -1,2 +1,2 @@
 # pyInDeepak
-A test repo for my cloud-based OS.
+A test repo.
