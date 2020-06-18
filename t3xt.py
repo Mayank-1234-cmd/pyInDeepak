@@ -1,3 +1,8 @@
+#Trying to add a transparency feature via this code
+#from tkinter import Tk # or(from Tkinter import Tk) on Python 2.x
+#__root.wait_visibility(__root)
+#__root.wm_attributes('-alpha',0.3)
+#__root.mainloop()
 #Dependencies:tkinker,python
 #From geeksforgeeks tutorials
 import tkinter 
@@ -123,7 +128,7 @@ class lotusT3XT:
         # exit() 
   
     def __showAbout(self): 
-        showinfo("lotusT3XT","Mrinal Verma") 
+        showinfo("lotusT3XT","Mrinal Verma + Mayank-1234-cmd") 
   
     def __openFile(self): 
           
